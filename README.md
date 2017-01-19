@@ -6,3 +6,5 @@ GSB v0.2 of Java used SpringMvc,Spring Security,Spring Seo and it used echarts a
 No.1 
 
 No.2
+
+introduce GSB v0.2
